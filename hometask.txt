@@ -1,0 +1,2 @@
+В README master есть строка про "with nice buttons on his jacket (buttons branch)".
+У человека в demo есть шапка, пуговицы и обувь
